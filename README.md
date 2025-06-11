@@ -1,6 +1,6 @@
-# BochaX
+# Bocha Cibernética
 
-BochaX é um simulador em C que processa comandos a partir de arquivos `.geo` e `.qry` para gerar arquivos de saída em `.svg` e `.txt`. O projeto simula um jogo de estratégia com formas geométricas e lançadores.
+Bocha Cibernética é um simulador em C que processa comandos a partir de arquivos `.geo` e `.qry` para gerar arquivos de saída em `.svg` e `.txt`. O projeto simula um jogo de estratégia com formas geométricas e lançadores.
 
 ## Funcionalidades
 
