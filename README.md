@@ -12,7 +12,7 @@ Bocha Cibernética é um simulador em C que processa comandos a partir de arquiv
 
 ## Compilacao
 
-Use o Makefile para compilar. Rode:
+Makefile para compilar:
 
 ```bash
 make PROJ_NAME=nome_do_executavel
